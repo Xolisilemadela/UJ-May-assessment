@@ -1,38 +1,44 @@
 {
-    "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+    "user": {
+        "fullName": "Xolisile Nokulunga",
+        "photo": "",
+        "phone": "0635278343",
+        "email": "xolisilenokulunga197@gmail.com",
+        "phrases": "Bcom Information Systems"
     },
-    "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+    "AboutMe": {
+        "phrase":"Highly Motivated and skilled , Dedicated and Enthusiasm information systems Graduate with passion for developing innovative software solutions.proffesion in Various programming languages e.g Phyton and Java with experience in developing Web, Designing databases and debugging software. Detail oriented ,accurate , and analytical mathematician with strong grasp in Computational techniques , Solid Foundation in Algorithms ,SQL, systems development, Machine learning,Line regression and Cloud computing"
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+    "education": {
+        "phrase": "Education History",
+        "institutionName": "University of Zululand",
+        "photo": "node_modules/unizulu logo.jpeg",
+        "description": "Jan 2018-NOV 2021"
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+    "high school": {
+        "Name": "Madlanga High School",
+        "Year": 2015,
+        "phrase": "Bachelors Pass"
+    },
+    "Work Experience": {
+        "Internship": "Department of Education",
+        "description": "Provide onsite and remote technical support to Ilembe district schools   and officials in the Department of Education",
+        "Year": "April 2022-March 2024"
+    },
+    "Internship": "University of Johhanesburg",
+    "Description":"Currently participating in the 4IR work readiness Programme conducted by UJ in Collaboration with Accenture SA. Is more based on Agile Rapid Skills Acquisition Engineering Business systems for 4IR Full stackDevelopment 4IR 4IR Bootcamp",
+ 
+"skills":{
+    "title":"Technical Skills",
+    "Description data":"Soft Skills:Communication Skills,Problem solving skills ",
+    "Description info":"Databases: SQL,Agile Methodology",
+    "Description":"Programming:Python,Javascript",
+    "Description basic":"AWS Cloud computing,Comprehensive working knowledge on WindowS ,Ms office ,365 Microsoft account and Directory."
+
+
+
+},
+
+"references": "References available upon request"
 }
+   

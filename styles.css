@@ -1,0 +1,48 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+}
+
+.cointainer {
+    max-width: 200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    box-shadow: 5px;
+
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.header h1 {
+    color: blueviolet;
+    margin-bottom: 5px;
+}
+
+.my image {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.section class {
+    font-size: 18px;
+    margin-bottom: 6px;
+    color: #000;
+}
+
+.skills list{
+    margin-bottom: 5px;
+}
+
+.references {
+    font-style: normal;
+    color: blanchedalmond;
+}
